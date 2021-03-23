@@ -24,14 +24,14 @@ spring:
       server:
         git:
 #          uri: https://github.com/HLDBanana/springCloud-config
-#          username: 949417140@hanergy.com
-#          password: 15090667928h
+#          username: xxxx@hanergy.com
+#          password: xxxx
           # 配置中心git仓库地址
           uri: https://git.hanergy.com/independent/config_springcloud.git
           # git用户名
-          username: hanlidong@hanergy.com
+          username: xxxx@hanergy.com
           # git密码
-          password: 15090667928Hh
+          password: xxxx
           #超时时间
           timeout: 5
           #分支
