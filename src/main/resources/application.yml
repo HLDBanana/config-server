@@ -36,6 +36,8 @@ spring:
           timeout: 5
           #分支
           default-label: master
+          #仓库文件夹目录，如果是/**，就是所有目录所有文件  
+          search-paths:  /**  
 #      label: master   #master分支
 #      profile: dev    #dev环境，和git里的文件名对应
 server:
